@@ -1,0 +1,6 @@
+
+@media handheld and (max-width: 480px){
+[class*="col-" ]{
+	width: 100%;
+}
+}
